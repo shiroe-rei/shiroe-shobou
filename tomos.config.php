@@ -30,7 +30,7 @@ if (!is_string($tomosRoot) || trim($tomosRoot) === '') {
 
 return [
     'site' => [
-        'name' => '白江書房（新）',
+        'name' => '白江書房',
         'description' => 'ショートショート中心の雑文サイト',
         'url' => $siteUrl,
         'base_path' => $basePath,
