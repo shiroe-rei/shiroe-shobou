@@ -3,8 +3,8 @@ title: TOP
 date: 2026-11-02
 description: Markdownで更新する小さなWebサイトです。
 draft: false
-tomos_github_document_id: 4dd89cf1-88bd-44af-970f-7e6c19e22425
 published: 2026-11-02T11:59:04Z
+tomos_github_document_id: 4dd89cf1-88bd-44af-970f-7e6c19e22425
 ---
 
 # TOP
@@ -20,9 +20,11 @@ published: 2026-11-02T11:59:04Z
 
 ### メニュー
 
+#### 小説
 
-- 小説
+- ショートショート
+
+### 雑文
 
 - 日記
-
--
+- 雑記
