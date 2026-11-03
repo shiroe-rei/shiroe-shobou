@@ -3,8 +3,8 @@ title: このサイトについて
 date: 2026-11-02
 description: このWebサイトについて紹介します。
 draft: false
-tomos_github_document_id: 2e18bd4d-be5a-4aa0-8687-ab4f1562c35a
 published: 2026-11-02T11:59:04Z
+tomos_github_document_id: 2e18bd4d-be5a-4aa0-8687-ab4f1562c35a
 ---
 
 ## このサイトについて
@@ -31,6 +31,8 @@ PN:白江　令（しろえ　れい）
 
 SFとミステリーと激しい音楽が好きなしがない会社員兼アマチュア作家。
 webでショートショートを書いたり、たまに公募に挑戦したりしています。
+
+bluesky:https://bsky.app/profile/shiroe-rei.bsky.social
 
 #### 好きな作家
 
