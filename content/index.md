@@ -22,7 +22,7 @@ tomos_github_document_id: 4dd89cf1-88bd-44af-970f-7e6c19e22425
 
 #### 小説
 
-- ショートショート
+- [ショートショート](https://shiroe-rei.github.io/shiroe-shobou/ss_index/)
 
 ### 雑文
 
