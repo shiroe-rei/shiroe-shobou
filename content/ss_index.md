@@ -1,11 +1,14 @@
 ---
 title: ショートショートインデックス
-draft: "false"
+date: 2026-11-03
+description: 
 tags:
   - index
-date: 2026-11-03
+draft: false
 published: 2026-11-03T05:07:40+00:00
+tomos_github_document_id: 85a9903e-c6bb-47e4-bf60-67ba7ee81560
 ---
+
 ### 2026 年
 ---
 
@@ -14,7 +17,7 @@ published: 2026-11-03T05:07:40+00:00
 - お似合いの二人
 #### か
 ---
-- 拡散
+- [拡散](https://shiroe-rei.github.io/shiroe-shobou/%E6%8B%A1%E6%95%A3/)
 - 可愛いモフ
 - カプセルの中身
 - キッド
