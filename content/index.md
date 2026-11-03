@@ -26,5 +26,5 @@ tomos_github_document_id: 4dd89cf1-88bd-44af-970f-7e6c19e22425
 
 ### 雑文
 
-- 日記
-- 雑記
+- [日記](https://shiroe-rei.github.io/shiroe-shobou/dia_index/)
+- [雑記](https://shiroe-rei.github.io/shiroe-shobou/zz_index/)
