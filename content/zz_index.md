@@ -1,14 +1,17 @@
 ---
 title: 雑記インデックス
-draft: "false"
+date: 2026-11-03
+description: 
 tags:
   - index
-date: 2026-11-03
+draft: false
 published: 2026-11-03T10:04:09+00:00
----
-### 読書
+tomos_github_document_id: c2961714-80b5-4d01-94d9-a8348e0a1b9e
 ---
 
+### 読書
+---
+- [10月に読んだ本](https://shiroe-rei.github.io/shiroe-shobou/book_10/)
 
 
 
@@ -25,4 +28,3 @@ published: 2026-11-03T10:04:09+00:00
 
 ### その他
 ---
-
