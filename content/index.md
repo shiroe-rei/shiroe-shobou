@@ -13,7 +13,7 @@ tomos_github_document_id: 4dd89cf1-88bd-44af-970f-7e6c19e22425
 
 
 ### what's new
-
+- 2026-11-04 [返り討ち](https://shiroe-rei.github.io/shiroe-shobou/nov_1104/)←NEW!
 
 
 
