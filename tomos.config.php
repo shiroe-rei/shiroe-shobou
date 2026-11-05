@@ -37,7 +37,7 @@ return [
         'language' => 'ja',
     ],
     'theme' => [
-        'name' => 'tomos-note',
+        'name' => 'tomos-dark',
     ],
     'paths' => [
         'content_dir' => __DIR__ . '/content',
