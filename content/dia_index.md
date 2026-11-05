@@ -14,3 +14,4 @@ tomos_github_document_id: 0ce8a8ed-2937-4c25-bdfa-0eaa6836ca2d
 
 - [261103_ 仕切り直し](https://shiroe-rei.github.io/shiroe-shobou/dia_1103/)
 - [261104_楽しい休日](https://shiroe-rei.github.io/shiroe-shobou/dia_1104/)
+- [261105_お知らせ](https://shiroe-rei.github.io/shiroe-shobou/dia_1105/)
