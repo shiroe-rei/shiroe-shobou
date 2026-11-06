@@ -28,3 +28,4 @@ tomos_github_document_id: c2961714-80b5-4d01-94d9-a8348e0a1b9e
 
 ### その他
 ---
+- [macbookairをポメラ化してみた](https://shiroe-rei.github.io/shiroe-shobou/zz_001/)
