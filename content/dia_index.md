@@ -16,4 +16,4 @@ tomos_github_document_id: 0ce8a8ed-2937-4c25-bdfa-0eaa6836ca2d
 - [261104_楽しい休日](https://shiroe-rei.github.io/shiroe-shobou/dia_1104/)
 - [261105_お知らせ](https://shiroe-rei.github.io/shiroe-shobou/dia_1105/)
 - [261106_久々の](https://shiroe-rei.github.io/shiroe-shobou/dia_1106/)
--
+- [261107_冬はすぐそこ](https://shiroe-rei.github.io/shiroe-shobou/dia_1107/)
