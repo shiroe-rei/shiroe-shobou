@@ -39,3 +39,7 @@ bluesky:https://bsky.app/profile/shiroe-rei.bsky.social
 #### 好きな作家
 
 星新一、安部公房、伊藤計劃、円城塔、東野圭吾、長岡弘樹
+
+### リンクについて
+
+当サイトはリンクフリーです。
