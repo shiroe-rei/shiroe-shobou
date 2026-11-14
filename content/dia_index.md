@@ -23,3 +23,4 @@ tomos_github_document_id: 0ce8a8ed-2937-4c25-bdfa-0eaa6836ca2d
 - [261111_旅行二日目](https://shiroe-rei.github.io/shiroe-shobou/dia_1111/)
 - [261112_夕映え](https://shiroe-rei.github.io/shiroe-shobou/dia_1112/)
 - [261113_じっくり](https://shiroe-rei.github.io/shiroe-shobou/dia_1113/)
+- [261114_素敵な空間](https://shiroe-rei.github.io/shiroe-shobou/dia_1114/)
