@@ -36,6 +36,21 @@ tomos_github_document_id: 85a9903e-c6bb-47e4-bf60-67ba7ee81560
 
 
 
+
+### は
+----
+- [配膳ロボットの逆襲](https://shiroe-rei.github.io/shiroe-shobou/nov_1115/)
+
+
+
+
+
+
+
+
+
+
+
 ### ま
 ---
 - [Mr.ブルーライト](https://shiroe-rei.github.io/shiroe-shobou/Mr.%E3%83%96%E3%83%AB%E3%83%BC%E3%83%A9%E3%82%A4%E3%83%88/)
