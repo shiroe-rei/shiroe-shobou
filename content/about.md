@@ -13,15 +13,15 @@ tomos_github_document_id: 2e18bd4d-be5a-4aa0-8687-ab4f1562c35a
 
 サイトマップ
 
-小説
+[ショートショート](https://shiroe-rei.github.io/shiroe-shobou/ss_index/)
 
-  主にショートショートを中心に書いています。
+  これまで書いたショートショートをおいています
 
-日記
+[日記](https://shiroe-rei.github.io/shiroe-shobou/dia_index/)
 
 日常を綴っています。
 
-雑記
+[雑記](https://shiroe-rei.github.io/shiroe-shobou/zz_index/)
 
 色々書いてます。
   
