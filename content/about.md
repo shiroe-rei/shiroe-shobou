@@ -7,23 +7,22 @@ published: 2026-11-02T11:59:04Z
 tomos_github_document_id: 2e18bd4d-be5a-4aa0-8687-ab4f1562c35a
 ---
 
-## このサイトについて
 
-主にショートショート中心の雑文サイトです。
+主にショートショート小説中心の雑文サイトです。
 
-サイトマップ
+ショートショートを週２回（水曜、日曜）投稿しています。
 
-[ショートショート](https://shiroe-rei.github.io/shiroe-shobou/ss_index/)
+また日記や雑記も投稿しています。
 
-  これまで書いたショートショートをおいています
+#### これまでに書いた記事
 
-[日記](https://shiroe-rei.github.io/shiroe-shobou/dia_index/)
+[ショートショート一覧](https://shiroe-rei.github.io/shiroe-shobou/ss_index/)
 
-日常を綴っています。
+[日記一覧](https://shiroe-rei.github.io/shiroe-shobou/dia_index/)
 
-[雑記](https://shiroe-rei.github.io/shiroe-shobou/zz_index/)
+[雑記一覧](https://shiroe-rei.github.io/shiroe-shobou/zz_index/)
 
-色々書いてます。
+
   
 ### 管理人プロフィール
 
