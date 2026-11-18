@@ -16,7 +16,8 @@ tomos_github_document_id: 4dd89cf1-88bd-44af-970f-7e6c19e22425
 - 2026-11-04 [返り討ち](https://shiroe-rei.github.io/shiroe-shobou/nov_1104/)
 - 2026-11-08 [チャラ男と猫](https://shiroe-rei.github.io/shiroe-shobou/nov_1108/)
 - 2026-11-11[漁船と人魚](https://shiroe-rei.github.io/shiroe-shobou/nov_1111/)
-- 2026-11-15[配膳ロボットの逆襲](https://shiroe-rei.github.io/shiroe-shobou/nov_1115/)←NEW!
+- 2026-11-15[配膳ロボットの逆襲](https://shiroe-rei.github.io/shiroe-shobou/nov_1115/)
+- 2026-11-18 [最強のおじいちゃん](https://shiroe-rei.github.io/shiroe-shobou/nov_1118/)←NEW!
 
 
 
