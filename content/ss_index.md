@@ -15,6 +15,14 @@ tomos_github_document_id: 85a9903e-c6bb-47e4-bf60-67ba7ee81560
 #### あ
 ---
 - [お似合いの二人](https://shiroe-rei.github.io/shiroe-shobou/%E3%81%8A%E4%BC%BC%E5%90%88%E3%81%84%E3%81%AE%E4%BA%8C%E4%BA%BA/)
+
+#### お
+---
+- [美味しい罠](https://shiroe-rei.github.io/shiroe-shobou/nov_1122/)
+
+
+
+
 #### か
 ---
 - [拡散](https://shiroe-rei.github.io/shiroe-shobou/%E6%8B%A1%E6%95%A3/)
