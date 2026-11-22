@@ -28,3 +28,7 @@ tomos_github_document_id: 0ce8a8ed-2937-4c25-bdfa-0eaa6836ca2d
 - [261116_片付け](https://shiroe-rei.github.io/shiroe-shobou/dia_1116/)
 - [261117_年末まであと少し](https://shiroe-rei.github.io/shiroe-shobou/dia_1117/)
 - [261118_朝食](https://shiroe-rei.github.io/shiroe-shobou/dia_1118/)
+- [261119_新たな執筆法](https://shiroe-rei.github.io/shiroe-shobou/dia_1119/)
+- [261120_雪](https://shiroe-rei.github.io/shiroe-shobou/dia_1120/)
+- [261121_雪パニック](https://shiroe-rei.github.io/shiroe-shobou/dia_1121/)
+- [261122_作業day](https://shiroe-rei.github.io/shiroe-shobou/dia_1122/)
