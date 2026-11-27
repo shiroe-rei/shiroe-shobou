@@ -33,3 +33,7 @@ tomos_github_document_id: 0ce8a8ed-2937-4c25-bdfa-0eaa6836ca2d
 - [261121_雪パニック](https://shiroe-rei.github.io/shiroe-shobou/dia_1121/)
 - [261122_作業day](https://shiroe-rei.github.io/shiroe-shobou/dia_1122/)
 - [261123_便利](https://shiroe-rei.github.io/shiroe-shobou/dia_1123/)
+- [261124_忙しい](https://shiroe-rei.github.io/shiroe-shobou/dia_1124/)
+- [261125_さらば](https://shiroe-rei.github.io/shiroe-shobou/dia_1125/)
+- [261126_脱依存](https://shiroe-rei.github.io/shiroe-shobou/dia_1126/)
+- [261127_やる気](https://shiroe-rei.github.io/shiroe-shobou/dia_1127/)
